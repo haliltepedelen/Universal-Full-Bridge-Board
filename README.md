@@ -1,3 +1,4 @@
 # Universal-Full-Bridge-Board
 Universal Full Bridge Board
-![UniversalFullBridge](https://user-images.githubusercontent.com/54251312/153776115-7782f950-d825-4c2b-9946-81fdc8b95d51.png)
+
+![Ekran Alıntısı](https://user-images.githubusercontent.com/54251312/153776140-e1fca457-d17a-4caf-bf1c-874fe1095c59.PNG)
